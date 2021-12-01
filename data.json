@@ -1,0 +1,16 @@
+{
+    "NAME":"Sagar Gupta",
+    "About_me":"I am Sagar Gupta.I am from Jhansi Uttar Pradesh. currently I am pursuing Mca from NIT TRICHY.",
+    "languages":[
+        "C language",
+        "C++ language",
+        "Python language"
+        
+    ],
+    "projects":[
+                ["whatshot"," Noted-App","An Android App using Java and Firebase"],
+                ["whatshot","Banking website", "A Basic Banking website using MERN"],
+                ["whatshot","E-commerce website", "An E-commerce website using Django"]
+               
+    ]
+}
